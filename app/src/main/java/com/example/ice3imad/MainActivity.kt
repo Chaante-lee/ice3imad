@@ -9,10 +9,10 @@ class MainActivity : AppCompatActivity() {
     data class Flashcard(val question: String, val correctAnswer: Boolean) //declaration author chaante lee pillay
 
     private val flashcards = listOf( //declared variables author chaante lee pillay
-        Flashcard("Maths is fun :).", true),
-        Flashcard("Lewis Hamilton won the world drivers championship last year 2024.", false),
+        Flashcard("waterslides are fun :).", true),
+        Flashcard("fish can swim onland.", false),
         Flashcard("Kotlin is a programming language.", true),
-        Flashcard("2 + 2 equals 5.", false),
+        Flashcard("2 + 2 equals 7.", false),
         Flashcard("The Earth revolves around the Sun.", true)
     )
 
