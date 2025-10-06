@@ -8,7 +8,6 @@ code
 
 activity main 
 
-
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
@@ -96,7 +95,6 @@ activity main
 
 
 main activity 
-
 
 package com.example.ice3imad
 
