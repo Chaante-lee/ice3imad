@@ -260,5 +260,13 @@ class MainActivity : AppCompatActivity() {
 }
 
 
+<img width="686" height="877" alt="Screenshot 2025-10-06 184820" src="https://github.com/user-attachments/assets/29eef146-a36c-4d40-a80d-5dc28ee9eb5a" />
+
+
+ <img width="644" height="764" alt="Screenshot 2025-10-06 184831" src="https://github.com/user-attachments/assets/ee72f179-6dd8-48e4-9a3d-e1a098f7c1d6" />
+
  
- 
+<img width="824" height="758" alt="Screenshot 2025-10-06 184857" src="https://github.com/user-attachments/assets/0851644a-dae6-4d9c-8fe8-a8e3ad99268a" />
+
+
+<img width="615" height="786" alt="Screenshot 2025-10-06 184906" src="https://github.com/user-attachments/assets/f4b7d78f-fc25-4efb-99a1-3df9cd8b47bd" />
